@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# JetBrains Rider / PyCharm
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Backup files
+*~
+*.bak
+*.tmp
